@@ -48,8 +48,8 @@ Copy-paste text for App Store Connect, plus the compliance decisions behind it.
 **Keywords** (100 max, no spaces after commas):
 `medication,reminder,prescription,allergy,emergency,pill,health,wallet,family,ICE,blood type,travel`
 
-**Support URL**: `https://<your-github-username>.github.io/medpouch/`
-**Privacy Policy URL**: `https://<your-github-username>.github.io/medpouch/privacy.html`
+**Support URL**: `https://akalstudioprojects-glitch.github.io/medpouch/`
+**Privacy Policy URL**: `https://akalstudioprojects-glitch.github.io/medpouch/privacy.html`
 **Copyright**: `2026 <Your Name>`
 
 ---

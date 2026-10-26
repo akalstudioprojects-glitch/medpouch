@@ -21,7 +21,7 @@ Files inside `MedPouch/` are picked up automatically (Xcode folder sync), so the
 ## Before submitting to the App Store
 
 1. Host the pages in `docs/` (for example with GitHub Pages). The contact email is akalstudioprojects@gmail.com.
-2. Put the privacy policy URL in `MedPouch/Views/Profile/PrivacyAndDataView.swift` (search for `TODO`).
+2. The privacy policy URL in `MedPouch/Views/Profile/PrivacyAndDataView.swift` points to the GitHub Pages site.
 3. Follow `docs/APP_STORE_SUBMISSION.md` for listing text, privacy answers, and reviewer notes.
 
 ## Project layout

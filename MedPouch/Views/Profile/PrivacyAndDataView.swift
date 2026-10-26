@@ -12,8 +12,7 @@ import CoreData
 struct PrivacyAndDataView: View {
     @Environment(\.managedObjectContext) private var viewContext
 
-    // TODO: Replace with your hosted privacy policy URL before submitting to the App Store
-    private let privacyPolicyURL = URL(string: "https://example.com/medpouch/privacy")!
+    private let privacyPolicyURL = URL(string: "https://akalstudioprojects-glitch.github.io/medpouch/privacy.html")!
 
     @State private var showingDeleteConfirmation = false
     @State private var showingError = false
