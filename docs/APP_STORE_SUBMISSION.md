@@ -50,7 +50,7 @@ Copy-paste text for App Store Connect, plus the compliance decisions behind it.
 
 **Support URL**: `https://akalstudioprojects-glitch.github.io/medpouch/`
 **Privacy Policy URL**: `https://akalstudioprojects-glitch.github.io/medpouch/privacy.html`
-**Copyright**: `2026 <Your Name>`
+**Copyright**: `2026 Akal Studio`
 
 ---
 
